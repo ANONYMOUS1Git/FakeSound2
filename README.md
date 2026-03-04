@@ -1,4 +1,4 @@
-# :mag_right: FakeSound2：A Benchmark for Explainable and Generalizable Deepfake Sound Detection
+# :mag_right: FakeSound2: A Benchmark for Explainable, Traceable, and Generalizable Deepfake Sound Detection
 
 ### Table of Contents
 
